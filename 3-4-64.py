@@ -1,1 +1,2 @@
-print('hey\n'*10)
+print('hey TOEY\n'*10)
+print("Heyy")
